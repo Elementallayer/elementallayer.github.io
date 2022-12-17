@@ -4,3 +4,5 @@ Node verification &amp; crossover
 ![image](https://user-images.githubusercontent.com/108437230/208265236-da76769f-56c2-4d2d-bcad-3c485ad99118.png)
 ![image](https://user-images.githubusercontent.com/108437230/208265396-5bfb5dad-b690-46b0-b34d-80c117f3eec9.png)
 ![image](https://user-images.githubusercontent.com/108437230/208268776-d7ac2751-063a-45bb-879b-570dbc6679b0.png)
+![image](https://user-images.githubusercontent.com/108437230/208268787-32c50f85-bf2e-4d8b-b954-8980911cced7.png)
+![image](https://user-images.githubusercontent.com/108437230/208268791-1841ac0f-5c17-49b2-8376-f003bb3338eb.png)
