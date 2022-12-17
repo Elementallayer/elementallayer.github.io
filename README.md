@@ -10,4 +10,5 @@ Node verification &amp; crossover
 ![image](https://user-images.githubusercontent.com/108437230/208269104-f2571ed9-df71-4912-9e03-3b40a2912a2e.png)
 ![image](https://user-images.githubusercontent.com/108437230/208269111-8bfb456d-5d45-4a1e-bb2b-575e19fd9ab6.png)
 ![image](https://user-images.githubusercontent.com/108437230/208269148-0135cef1-a789-4fdc-b2b6-35c2db210234.png)
+![image](https://user-images.githubusercontent.com/108437230/208269170-06ff36cf-493f-48eb-94bd-0389deb100ac.png)
 
